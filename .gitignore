@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Angular build output
+frontend/dist/
+frontend/.angular/
+
+# PHP / environment
+.env
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
